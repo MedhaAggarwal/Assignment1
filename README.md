@@ -28,4 +28,3 @@ The dataset was downloaded from [Google Dataset Search](https://datasetsearch.re
 - Logistic Regression achieved **~80% accuracy** on the test dataset.
 - Performance metrics were reported using classification report.
 
-## Repository Structure
