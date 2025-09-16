@@ -2,12 +2,12 @@
 
 # Assignment-1: Logistic Regression on Titanic Dataset
 
-## 📌 Overview
+## Overview
 This assignment applies **Logistic Regression** on the famous Titanic dataset to predict passenger survival based on features like age, class, gender, and fare, etc.  
 
 The dataset was downloaded from [Google Dataset Search](https://datasetsearch.research.google.com/) and contains passenger details along with survival status.
 
-## 📊 Steps Implemented
+## Steps Implemented
 1. Data Loading and Preprocessing
    - Filled missing values in `Age` and `Embarked`.
    - Encoded categorical variables (`Sex`, `Embarked`).
@@ -21,11 +21,11 @@ The dataset was downloaded from [Google Dataset Search](https://datasetsearch.re
 3. Visualization
    - Correlation heatmap to understand relationships among features.
 
-## 🧑‍💻 Technologies Used
+## Technologies Used
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 
-## 🚀 Results
+## Results
 - Logistic Regression achieved **~80% accuracy** on the test dataset.
 - Performance metrics were reported using classification report.
 
-## 📂 Repository Structure
+## Repository Structure
