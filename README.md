@@ -1,6 +1,5 @@
 # Course: CS502- Advanced Pattern Recognition
-
-# Assignment-1: Logistic Regression on Titanic Dataset
+## Assignment-1: Logistic Regression on Titanic Dataset
 
 ## Overview
 This assignment applies **Logistic Regression** on the famous Titanic dataset to predict passenger survival based on features like age, class, gender, and fare, etc.  
