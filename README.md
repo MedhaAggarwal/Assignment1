@@ -25,5 +25,4 @@ The dataset was downloaded from [Google Dataset Search](https://datasetsearch.re
 
 ## Results
 - Logistic Regression achieved **~80% accuracy** on the test dataset.
-- Performance metrics were reported using classification report.
-
+- Performance metrics like Accuracy, Confusion Matrix, and Classification Report were reported using classification report.
